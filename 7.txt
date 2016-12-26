@@ -1,2 +1,5 @@
 dasdada
 1111111
+=======
+adasdadad
+>>>>>>> aming
